@@ -24,3 +24,16 @@ page {
   margin:0 auto 20rpx;
   border-radius: 10rpx;
 }
+
+.more {
+  height: 60rpx;
+  padding: 0 10rpx;
+  position: fixed;
+  right: 20rpx;
+  bottom: 60rpx;
+  background: #ccc;
+  border-radius: 15rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
