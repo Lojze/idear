@@ -1,6 +1,0 @@
-<view class="main">
-  <block wx:for="{{list.items}}" wx:key="index">
-    <view class="card">{{index+1}}、{{item.text}}</view>
-  </block>
-</view>
-<view class="more">更多</view>

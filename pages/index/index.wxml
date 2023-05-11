@@ -1,0 +1,174 @@
+<view class="main">
+  <view class="header">
+    <view class="b">未来百科</view>
+    <view class="b">最大的 AI 工具目录，每日更新</view>
+    <view class="b">今天添加的工具</view>
+  </view>
+  <view class="scroll-box">
+    <scroll-view class="scroll" type="list" scroll-y>
+      <view class="item">
+        <view class="img-box">
+          <image class="bg" src="" mode="" />
+          <view class="tip">99美元/月</view>
+          <view class="jingxuan">精选</view>
+        </view>
+        <view class="content">
+          <view class="h1">
+            <view class="l">
+              <view class="text">魔术表格</view>
+              <image src="" mode="" />
+            </view>
+            <view class="r">
+              <image src="" mode="" />
+              <view class="text">690</view>
+            </view>
+          </view>
+          <view class="grade">
+            这里面是评分
+          </view>
+          <view class="text">训练 AI 销售人员在 3 分钟内将转化率提高 20%</view>
+          <view class="tags">
+            <view class="tag">免费增值</view>
+          </view>
+          <view class="labels">
+            <view class="label">#低代码/无代码</view>
+            <view class="label">#销售额</view>
+          </view>
+          <view class="btn">
+            <button class="l">复制链接</button>
+            <button class="r">喜欢</button>
+          </view>
+        </view>
+      </view>
+      <view class="item">
+        <view class="img-box">
+          <image src="" mode="" />
+          <view class="tip">99美元/月</view>
+          <view class="jingxuan">精选</view>
+        </view>
+        <view class="h1">
+          <view class="l">
+            <text>魔术表格</text>
+            <image src="" mode="" />
+          </view>
+          <view class="r">
+            <image src="" mode="" />
+            <text>690</text>
+          </view>
+        </view>
+        <view class="grade">
+          这里面是评分
+        </view>
+        <view class="text">训练 AI 销售人员在 3 分钟内将转化率提高 20%</view>
+        <view class="tags">
+          <view class="tag">免费增值</view>
+        </view>
+        <view class="labels">
+          <view class="label">#低代码/无代码</view>
+          <view class="label">#销售额</view>
+        </view>
+        <view class="btn">
+          <button class="l">复制链接</button>
+          <button class="r">喜欢</button>
+        </view>
+      </view>
+      <view class="item">
+        <view class="img-box">
+          <image src="" mode="" />
+          <view class="tip">99美元/月</view>
+          <view class="jingxuan">精选</view>
+        </view>
+        <view class="h1">
+          <view class="l">
+            <text>魔术表格</text>
+            <image src="" mode="" />
+          </view>
+          <view class="r">
+            <image src="" mode="" />
+            <text>690</text>
+          </view>
+        </view>
+        <view class="grade">
+          这里面是评分
+        </view>
+        <view class="text">训练 AI 销售人员在 3 分钟内将转化率提高 20%</view>
+        <view class="tags">
+          <view class="tag">免费增值</view>
+        </view>
+        <view class="labels">
+          <view class="label">#低代码/无代码</view>
+          <view class="label">#销售额</view>
+        </view>
+        <view class="btn">
+          <button class="l">复制链接</button>
+          <button class="r">喜欢</button>
+        </view>
+      </view>
+      <view class="item">
+        <view class="img-box">
+          <image src="" mode="" />
+          <view class="tip">99美元/月</view>
+          <view class="jingxuan">精选</view>
+        </view>
+        <view class="h1">
+          <view class="l">
+            <text>魔术表格</text>
+            <image src="" mode="" />
+          </view>
+          <view class="r">
+            <image src="" mode="" />
+            <text>690</text>
+          </view>
+        </view>
+        <view class="grade">
+          这里面是评分
+        </view>
+        <view class="text">训练 AI 销售人员在 3 分钟内将转化率提高 20%</view>
+        <view class="tags">
+          <view class="tag">免费增值</view>
+        </view>
+        <view class="labels">
+          <view class="label">#低代码/无代码</view>
+          <view class="label">#销售额</view>
+        </view>
+        <view class="btn">
+          <button class="l">复制链接</button>
+          <button class="r">喜欢</button>
+        </view>
+      </view>
+      <view class="item">
+        <view class="img-box">
+          <image src="" mode="" />
+          <view class="tip">99美元/月</view>
+          <view class="jingxuan">精选</view>
+        </view>
+        <view class="h1">
+          <view class="l">
+            <text>魔术表格</text>
+            <image src="" mode="" />
+          </view>
+          <view class="r">
+            <image src="" mode="" />
+            <text>690</text>
+          </view>
+        </view>
+        <view class="grade">
+          这里面是评分
+        </view>
+        <view class="text">训练 AI 销售人员在 3 分钟内将转化率提高 20%</view>
+        <view class="tags">
+          <view class="tag">免费增值</view>
+        </view>
+        <view class="labels">
+          <view class="label">#低代码/无代码</view>
+          <view class="label">#销售额</view>
+        </view>
+        <view class="btn">
+          <button class="l">复制链接</button>
+          <button class="r">喜欢</button>
+        </view>
+      </view>
+    </scroll-view>
+
+  </view>
+</view>
